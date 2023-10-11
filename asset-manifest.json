@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sass/static/css/main.0fedeffb.css",
+    "main.js": "/sass/static/js/main.3fbc488f.js",
+    "index.html": "/sass/index.html",
+    "main.0fedeffb.css.map": "/sass/static/css/main.0fedeffb.css.map",
+    "main.3fbc488f.js.map": "/sass/static/js/main.3fbc488f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fedeffb.css",
+    "static/js/main.3fbc488f.js"
+  ]
+}
